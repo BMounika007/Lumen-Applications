@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lumen Event Booking Application</title>
+  </head>
+  <body>
+      <h1 style="background-color:DodgerBlue;"> Lumen Event Booking Application</h1>
+      <h4 style="color:Red;">Event: Cricket</h4>
+      <h5> Description: 
+      Cricket is a bat-ball game played between two teams of eleven players
+      on a field at the center. Cricket is a international sport and
+      it is a team game. It is almost played everywhere in the country and 
+      prominent part of the country. It is one of the biggest sporting 
+      league in the world. 
+     The event is held on 18-02-2023 and in the place of Hyderabad.</h5>
+      Contact Details <input type="int"><br>
+      Type <input type="radio" name="n1" value="">Face-to-Face
+           <input type="radio" name="n2" value="">Virtual
+      Location <input type="radio" name="m1" value="">Physical Address
+               <input type="radio" name="m2" value="">Webinar Links<br>
+      Seating <input type="text" size="10" value=""
+  </body>
+</html>
